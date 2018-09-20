@@ -1,6 +1,9 @@
 _repo: Twenty-Five-Ghost-Stories_53419
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 25 Ghost Stories
+covers:
+- cover_type: archival
+  image_path: 53419-h/images/cover.jpg
 creator:
   editor:
     agent_name: Holland, W. Bob (West Bob)
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '47364'
     url: http://www.gutenberg.org/2009/agents/47364
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53419#Twenty-Five-Ghost-Stories
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2016-10-31'
 gutenberg_type: Text
