@@ -1,0 +1,36 @@
+_repo: Twenty-Five-Ghost-Stories_53419
+_version: 0.0.1
+alternative_title: 25 Ghost Stories
+creator:
+  editor:
+    agent_name: Holland, W. Bob (West Bob)
+    alias: Holland, West Bob
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '47364'
+    url: http://www.gutenberg.org/2009/agents/47364
+description: ''
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2016-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcsh 'Fiction'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: Preface -- The black cat -- The flayed hand -- The vengeance of a
+  tree -- The parlor-car ghost -- Ghost of Buckstown Inn -- The burglar's ghost --
+  A phantom toe -- Mrs. Davenport's ghost -- The phantom woman -- The phantom hag
+  -- From the tomb -- Sandy's ghost -- The ghosts of Red Creek -- The spectre bride
+  -- How he caught the ghost -- Grand-dame's ghost story -- A fight with a ghost --
+  Colonel Halifax's ghost story -- The ghost of the count -- The old mansion -- A
+  misfit ghost -- An unbidden guest -- The dead woman's photograph -- The ghost of
+  a live man -- The ghost of Washington.
+title: Twenty-Five Ghost Stories
+url: http://www.gutenberg.org/ebooks/53419
